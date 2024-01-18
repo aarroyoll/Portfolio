@@ -1,4 +1,4 @@
-![image](https://github.com/aarroyoll/Portfolio/assets/155289202/4148a252-eab6-4959-8bae-26ef8cce718d)# Data Science Graduate Student
+# Data Science Graduate Student
 
 ### Education 
 Public Health Data Science, M.S.
