@@ -1,7 +1,7 @@
 # Data Science Graduate Student
 
 ## Education 
-Public Health Data Science, M.S.
+Public Health Data Science, M.S. (Graduation: 2024)
 
 Public Health, B.S.
 
