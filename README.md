@@ -2,6 +2,7 @@
 
 ### Education 
 Public Health Data Science, M.S.
+
 Public Health, B.S.
 
 ### Academic Projects
