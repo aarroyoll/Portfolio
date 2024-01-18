@@ -6,7 +6,7 @@ Public Health Data Science, M.S.
 Public Health, B.S.
 
 ## Academic Projects
-Predictive Model for Assessing Drunk Driving Propensity(https://github.com/aarroyoll/HIM-Project)
+[Predictive Model for Assessing Drunk Driving Propensity](https://github.com/aarroyoll/HIM-Project)
 
 Assessing the impact of gender on the prevalence and patterns of drunk driving among individuals who consume alcohol
 
